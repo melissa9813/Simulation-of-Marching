@@ -1,5 +1,6 @@
 # Simulation-of-Marching
 #### HK PolyU COMP1011 Assignment 2 (2020/21 Semester 2)
+#### Please watch the video (https://youtu.be/HExgC4qHsQI) to see the result
 
 ### Background
 Marching is a part of military training that requires military troops to move forward in a
